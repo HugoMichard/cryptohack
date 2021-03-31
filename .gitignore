@@ -1,0 +1,7 @@
+__pycache__/
+*.png
+*.jpg
+*.tar
+*.zip
+*.log
+.DS_Store
