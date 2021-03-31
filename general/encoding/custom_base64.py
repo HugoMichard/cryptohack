@@ -1,5 +1,5 @@
 import base64
-from hex import convert_hex_to_bytes
+from cryptohack.general.encoding.hex import convert_hex_to_bytes
 
 
 def convert_bytes_to_base64(message):
